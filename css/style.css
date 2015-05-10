@@ -413,9 +413,9 @@ h2.section-subheading.about {
     color:#3e3e3e;
 }
 .percent:after {
-    content:'%';
+    content:'years';
     margin-left:0.1em;
-    font-size: .8em;
+    font-size: .6em;
 }
 /** section skill end **/
 /** section experience start **/
